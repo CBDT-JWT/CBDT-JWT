@@ -1,6 +1,6 @@
 Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
@@ -43,16 +43,18 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      8 mins              █████████████████████████   100.00 % 
+MATLAB                   1 hr 44 mins        █████████████████░░░░░░░░   66.90 % 
+Objective-C              29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+TeX                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+VS Code                  2 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-图像处理大作业                  8 mins              █████████████████████████   100.00 % 
+图像处理大作业                  2 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -72,5 +74,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2025 18:46:20 UTC
+ Last Updated on 17/08/2025 18:47:52 UTC
 <!--END_SECTION:waka-->
