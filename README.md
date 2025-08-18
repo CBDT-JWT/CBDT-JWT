@@ -8,8 +8,6 @@ Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 
 > 📦 275.7 kB Used in GitHub's Storage 
  > 
-> 🏆 62 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -74,5 +72,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2025 18:47:52 UTC
+ Last Updated on 18/08/2025 18:51:58 UTC
 <!--END_SECTION:waka-->
