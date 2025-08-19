@@ -2,11 +2,13 @@ Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 275.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 62 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,5 +74,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2025 18:51:58 UTC
+ Last Updated on 19/08/2025 18:47:11 UTC
 <!--END_SECTION:waka-->
