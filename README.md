@@ -1,6 +1,6 @@
 Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
 
@@ -43,19 +43,19 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-MATLAB                   5 hrs 50 mins       ████████████████████░░░░░   80.25 % 
-Objective-C              1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-TeX                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+MATLAB                   7 hrs 8 mins        ██████████████████████░░░   89.95 % 
+Objective-C              35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+TeX                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-图像处理大作业                  6 hrs 40 mins       ███████████████████████░░   91.46 % 
-Clarinet                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+图像处理大作业                  7 hrs 18 mins       ███████████████████████░░   92.15 % 
+Clarinet                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 
 💻 Operating System: 
-Windows                  7 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -75,5 +75,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2025 18:43:56 UTC
+ Last Updated on 24/08/2025 18:44:59 UTC
 <!--END_SECTION:waka-->
