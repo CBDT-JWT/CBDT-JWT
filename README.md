@@ -41,21 +41,21 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-MATLAB                   9 hrs 11 mins       ██████████████████░░░░░░░   70.74 % 
-TeX                      2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Objective-C              1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+MATLAB                   9 hrs 13 mins       ██████████████████░░░░░░░   70.65 % 
+TeX                      2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Objective-C              1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 37 mins      ████████████████████████░   97.08 % 
-Word                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+VS Code                  12 hrs 41 mins      ████████████████████████░   97.09 % 
+Word                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 🐱‍💻 Projects: 
-图像处理大作业                  12 hrs 37 mins      ████████████████████████░   97.08 % 
-Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+图像处理大作业                  12 hrs 41 mins      ████████████████████████░   97.09 % 
+Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 💻 Operating System: 
-Windows                  12 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -75,5 +75,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2025 18:47:03 UTC
+ Last Updated on 29/08/2025 18:44:11 UTC
 <!--END_SECTION:waka-->
