@@ -6,7 +6,7 @@ Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 
 **🐱 My GitHub Data** 
 
-> 📦 275.7 kB Used in GitHub's Storage 
+> 📦 275.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -17,21 +17,21 @@ Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-🌆 Daytime                125 commits         ███████████░░░░░░░░░░░░░░   45.13 % 
-🌃 Evening                71 commits          ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-🌙 Night                  48 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+🌞 Morning                33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+🌆 Daytime                128 commits         ███████████░░░░░░░░░░░░░░   45.71 % 
+🌃 Evening                71 commits          ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+🌙 Night                  48 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   70 commits          ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-Tuesday                  67 commits          ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-Wednesday                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Thursday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Friday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Saturday                 31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Sunday                   46 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Monday                   73 commits          ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+Tuesday                  67 commits          ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+Wednesday                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Thursday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Friday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Saturday                 31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Sunday                   46 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
 ```
 
 
@@ -41,22 +41,22 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-MATLAB                   2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.30 % 
-TeX                      2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.18 % 
-Other                    1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-Objective-C              38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+MATLAB                   2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.16 % 
+TeX                      2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.13 % 
+Other                    1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+Objective-C              38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 20 mins       ███████████████████░░░░░░   76.61 % 
-Word                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Excel                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+VS Code                  5 hrs 20 mins       ███████████████████░░░░░░   76.41 % 
+Word                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Excel                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 
 🐱‍💻 Projects: 
-图像处理大作业                  5 hrs 20 mins       ███████████████████░░░░░░   76.61 % 
-Unknown Project          1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+图像处理大作业                  5 hrs 20 mins       ███████████████████░░░░░░   76.41 % 
+Unknown Project          1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
 
 💻 Operating System: 
-Windows                  6 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -76,5 +76,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2025 18:43:15 UTC
+ Last Updated on 01/09/2025 18:44:58 UTC
 <!--END_SECTION:waka-->
