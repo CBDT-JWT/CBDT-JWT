@@ -41,19 +41,19 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 48 mins        █████████████████████░░░░   83.74 % 
-BibTeX                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Other                    1 hr 46 mins        █████████████████████░░░░   83.43 % 
+BibTeX                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
 
 🔥 Editors: 
-Word                     1 hr 21 mins        ████████████████░░░░░░░░░   62.59 % 
-Excel                    27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-VS Code                  21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Word                     1 hr 18 mins        ███████████████░░░░░░░░░░   61.88 % 
+Excel                    27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+VS Code                  21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 9 mins        █████████████████████████   100.00 % 
+Unknown Project          2 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -73,5 +73,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2025 18:43:05 UTC
+ Last Updated on 04/09/2025 18:45:18 UTC
 <!--END_SECTION:waka-->
