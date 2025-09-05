@@ -1,6 +1,6 @@
 Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,19 +41,20 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 46 mins        █████████████████████░░░░   83.43 % 
-BibTeX                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Other                    2 hrs 4 mins        █████████████████████░░░░   85.48 % 
+BibTeX                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
 
 🔥 Editors: 
-Word                     1 hr 18 mins        ███████████████░░░░░░░░░░   61.88 % 
-Excel                    27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-VS Code                  21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Word                     1 hr 18 mins        ██████████████░░░░░░░░░░░   54.20 % 
+Excel                    29 mins             █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+VS Code                  21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+PowerPoint               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 7 mins        █████████████████████████   100.00 % 
+Unknown Project          2 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -73,5 +74,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2025 18:45:18 UTC
+ Last Updated on 05/09/2025 18:43:55 UTC
 <!--END_SECTION:waka-->
