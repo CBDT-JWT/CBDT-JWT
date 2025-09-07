@@ -8,8 +8,6 @@ Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 
 > 📦 275.8 kB Used in GitHub's Storage 
  > 
-> 🏆 65 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -43,20 +41,20 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 11 mins        ███████████████████░░░░░░   77.29 % 
-BibTeX                   21 mins             ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+Other                    49 mins             ██████████████████░░░░░░░   70.10 % 
+BibTeX                   21 mins             ███████░░░░░░░░░░░░░░░░░░   29.90 % 
 
 🔥 Editors: 
-Excel                    28 mins             ████████░░░░░░░░░░░░░░░░░   31.08 % 
-Word                     27 mins             ███████░░░░░░░░░░░░░░░░░░   29.08 % 
-VS Code                  21 mins             ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-PowerPoint               15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Word                     27 mins             ██████████░░░░░░░░░░░░░░░   38.51 % 
+VS Code                  21 mins             ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+PowerPoint               15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+Excel                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 33 mins        █████████████████████████   100.00 % 
+Unknown Project          1 hr 10 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -76,5 +74,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2025 18:41:21 UTC
+ Last Updated on 07/09/2025 18:41:28 UTC
 <!--END_SECTION:waka-->
