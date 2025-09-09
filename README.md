@@ -8,6 +8,8 @@ Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 
 > 📦 275.8 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -41,23 +43,21 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 18 mins        █████████████░░░░░░░░░░░░   53.41 % 
-Markdown                 34 mins             ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-BibTeX                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Objective-C              12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Other                    48 mins             █████████████░░░░░░░░░░░░   50.45 % 
+Markdown                 34 mins             █████████░░░░░░░░░░░░░░░░   36.10 % 
+Objective-C              12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         ████████████░░░░░░░░░░░░░   46.59 % 
-PowerPoint               45 mins             ████████░░░░░░░░░░░░░░░░░   31.29 % 
-Word                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-Excel                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+VS Code                  47 mins             ████████████░░░░░░░░░░░░░   49.55 % 
+PowerPoint               46 mins             ████████████░░░░░░░░░░░░░   48.22 % 
+Excel                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 39 mins        █████████████████░░░░░░░░   67.81 % 
-practice                 47 mins             ████████░░░░░░░░░░░░░░░░░   32.19 % 
+Unknown Project          48 mins             █████████████░░░░░░░░░░░░   50.45 % 
+practice                 47 mins             ████████████░░░░░░░░░░░░░   49.55 % 
 
 💻 Operating System: 
-Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -77,5 +77,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2025 18:45:16 UTC
+ Last Updated on 09/09/2025 18:43:45 UTC
 <!--END_SECTION:waka-->
