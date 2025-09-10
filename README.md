@@ -1,6 +1,6 @@
 Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -8,7 +8,7 @@ Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 
 > 📦 275.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 65 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,21 +43,22 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    48 mins             █████████████░░░░░░░░░░░░   50.45 % 
-Markdown                 34 mins             █████████░░░░░░░░░░░░░░░░   36.10 % 
-Objective-C              12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Other                    55 mins             █████████████░░░░░░░░░░░░   53.80 % 
+Markdown                 34 mins             ████████░░░░░░░░░░░░░░░░░   33.66 % 
+Objective-C              12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
 
 🔥 Editors: 
-VS Code                  47 mins             ████████████░░░░░░░░░░░░░   49.55 % 
-PowerPoint               46 mins             ████████████░░░░░░░░░░░░░   48.22 % 
-Excel                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+VS Code                  47 mins             ████████████░░░░░░░░░░░░░   46.20 % 
+PowerPoint               46 mins             ███████████░░░░░░░░░░░░░░   44.96 % 
+Word                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Excel                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🐱‍💻 Projects: 
-Unknown Project          48 mins             █████████████░░░░░░░░░░░░   50.45 % 
-practice                 47 mins             ████████████░░░░░░░░░░░░░   49.55 % 
+Unknown Project          55 mins             █████████████░░░░░░░░░░░░   53.80 % 
+practice                 47 mins             ████████████░░░░░░░░░░░░░   46.20 % 
 
 💻 Operating System: 
-Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -77,5 +78,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2025 18:43:45 UTC
+ Last Updated on 10/09/2025 18:46:08 UTC
 <!--END_SECTION:waka-->
