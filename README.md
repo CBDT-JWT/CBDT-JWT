@@ -41,22 +41,21 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    55 mins             █████████████░░░░░░░░░░░░   53.80 % 
-Markdown                 34 mins             ████████░░░░░░░░░░░░░░░░░   33.66 % 
-Objective-C              12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Other                    36 mins             ███████████░░░░░░░░░░░░░░   43.89 % 
+Markdown                 34 mins             ██████████░░░░░░░░░░░░░░░   40.88 % 
+Objective-C              12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
 
 🔥 Editors: 
-VS Code                  47 mins             ████████████░░░░░░░░░░░░░   46.20 % 
-PowerPoint               46 mins             ███████████░░░░░░░░░░░░░░   44.96 % 
-Word                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Excel                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+VS Code                  47 mins             ██████████████░░░░░░░░░░░   56.11 % 
+PowerPoint               30 mins             █████████░░░░░░░░░░░░░░░░   35.68 % 
+Word                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 
 🐱‍💻 Projects: 
-Unknown Project          55 mins             █████████████░░░░░░░░░░░░   53.80 % 
-practice                 47 mins             ████████████░░░░░░░░░░░░░   46.20 % 
+practice                 47 mins             ██████████████░░░░░░░░░░░   56.11 % 
+Unknown Project          36 mins             ███████████░░░░░░░░░░░░░░   43.89 % 
 
 💻 Operating System: 
-Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -76,5 +75,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2025 18:43:38 UTC
+ Last Updated on 12/09/2025 18:42:42 UTC
 <!--END_SECTION:waka-->
