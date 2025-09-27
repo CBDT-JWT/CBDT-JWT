@@ -43,18 +43,18 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 5 mins        █████████████████████████   100.00 % 
+Other                    1 hr 46 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PowerPoint               2 hrs 32 mins       █████████████████████░░░░   82.40 % 
-Excel                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Word                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+PowerPoint               1 hr 13 mins        █████████████████░░░░░░░░   69.24 % 
+Excel                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Word                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 5 mins        █████████████████████████   100.00 % 
+Unknown Project          1 hr 46 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -74,5 +74,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2025 18:44:41 UTC
+ Last Updated on 27/09/2025 18:42:26 UTC
 <!--END_SECTION:waka-->
