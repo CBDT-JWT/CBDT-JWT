@@ -1,6 +1,6 @@
 Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -43,21 +43,21 @@ Sunday                   52 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 34 mins        ███████████████████████░░   90.57 % 
-MATLAB                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Unity3D Asset            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Other                    1 hr 56 mins        ███████████████████████░░   92.20 % 
+MATLAB                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Unity3D Asset            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Word                     1 hr 5 mins         ████████████████░░░░░░░░░   62.97 % 
-PowerPoint               28 mins             ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-VS Code                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Word                     1 hr 6 mins         █████████████░░░░░░░░░░░░   52.49 % 
+PowerPoint               50 mins             ██████████░░░░░░░░░░░░░░░   39.71 % 
+VS Code                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 34 mins        ███████████████████████░░   90.57 % 
-practice                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Unknown Project          1 hr 56 mins        ███████████████████████░░   92.20 % 
+practice                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 
 💻 Operating System: 
-Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -77,5 +77,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2025 18:46:47 UTC
+ Last Updated on 07/10/2025 18:47:34 UTC
 <!--END_SECTION:waka-->
