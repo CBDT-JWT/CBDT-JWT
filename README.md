@@ -1,6 +1,6 @@
 Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -43,21 +43,21 @@ Sunday                   52 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 56 mins        ███████████████████████░░   92.20 % 
-MATLAB                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Other                    1 hr 53 mins        ███████████████████████░░   91.98 % 
+MATLAB                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 Unity3D Asset            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Word                     1 hr 6 mins         █████████████░░░░░░░░░░░░   52.49 % 
-PowerPoint               50 mins             ██████████░░░░░░░░░░░░░░░   39.71 % 
-VS Code                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Word                     1 hr 3 mins         █████████████░░░░░░░░░░░░   51.51 % 
+PowerPoint               50 mins             ██████████░░░░░░░░░░░░░░░   40.47 % 
+VS Code                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 56 mins        ███████████████████████░░   92.20 % 
-practice                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Unknown Project          1 hr 53 mins        ███████████████████████░░   91.98 % 
+practice                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 
 💻 Operating System: 
-Windows                  2 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -77,5 +77,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2025 18:47:34 UTC
+ Last Updated on 08/10/2025 18:48:46 UTC
 <!--END_SECTION:waka-->
