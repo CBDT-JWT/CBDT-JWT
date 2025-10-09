@@ -43,21 +43,21 @@ Sunday                   52 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 53 mins        ███████████████████████░░   91.98 % 
-MATLAB                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Unity3D Asset            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Other                    1 hr 13 mins        ██████████████████████░░░   88.12 % 
+MATLAB                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Unity3D Asset            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Word                     1 hr 3 mins         █████████████░░░░░░░░░░░░   51.51 % 
-PowerPoint               50 mins             ██████████░░░░░░░░░░░░░░░   40.47 % 
-VS Code                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+PowerPoint               50 mins             ███████████████░░░░░░░░░░   59.94 % 
+Word                     23 mins             ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+VS Code                  9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 53 mins        ███████████████████████░░   91.98 % 
-practice                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Unknown Project          1 hr 13 mins        ██████████████████████░░░   88.12 % 
+practice                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
 
 💻 Operating System: 
-Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -77,5 +77,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2025 18:48:46 UTC
+ Last Updated on 09/10/2025 18:46:45 UTC
 <!--END_SECTION:waka-->
