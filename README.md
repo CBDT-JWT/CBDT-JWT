@@ -43,21 +43,21 @@ Sunday                   52 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 34 mins       █████████████████████████   99.97 % 
+Other                    4 hrs 13 mins       █████████████████████████   99.97 % 
 MATLAB                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-PowerPoint               2 hrs 39 mins       ███████████████░░░░░░░░░░   58.16 % 
-Word                     1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   40.73 % 
-Excel                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+PowerPoint               2 hrs 18 mins       ██████████████░░░░░░░░░░░   54.77 % 
+Word                     1 hr 51 mins        ███████████░░░░░░░░░░░░░░   44.02 % 
+Excel                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 34 mins       █████████████████████████   99.97 % 
+Unknown Project          4 hrs 13 mins       █████████████████████████   99.97 % 
 practice                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  4 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -77,5 +77,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2025 18:46:04 UTC
+ Last Updated on 14/10/2025 18:47:22 UTC
 <!--END_SECTION:waka-->
