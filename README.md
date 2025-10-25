@@ -6,13 +6,13 @@ Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 
 **🐱 My GitHub Data** 
 
-> 📦 277.1 kB Used in GitHub's Storage 
+> 📦 307.3 kB Used in GitHub's Storage 
  > 
-> 🏆 78 Contributions in the Year 2025
+> 🏆 79 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -43,18 +43,18 @@ Sunday                   52 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 42 mins        █████████████████████████   100.00 % 
+Other                    1 hr 11 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PowerPoint               1 hr 3 mins         ████████████████░░░░░░░░░   62.27 % 
-Word                     25 mins             ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-Excel                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+PowerPoint               34 mins             ████████████░░░░░░░░░░░░░   47.90 % 
+Word                     23 mins             ████████░░░░░░░░░░░░░░░░░   33.49 % 
+Excel                    13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 42 mins        █████████████████████████   100.00 % 
+Unknown Project          1 hr 11 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -74,5 +74,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2025 18:45:56 UTC
+ Last Updated on 25/10/2025 18:43:52 UTC
 <!--END_SECTION:waka-->
