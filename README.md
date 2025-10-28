@@ -43,18 +43,16 @@ Sunday                   53 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Excel                    13 mins             ████████████████████████░   94.10 % 
-Word                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-PowerPoint               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -74,5 +72,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2025 18:47:43 UTC
+ Last Updated on 28/10/2025 18:50:24 UTC
 <!--END_SECTION:waka-->
