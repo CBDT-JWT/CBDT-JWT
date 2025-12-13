@@ -8,11 +8,11 @@ Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 
 > 📦 350.1 kB Used in GitHub's Storage 
  > 
-> 🏆 220 Contributions in the Year 2025
+> 🏆 222 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -55,14 +55,14 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in C++** 
+**I Mostly Code in Python** 
 
 ```text
-TeX                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+TeX                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
@@ -72,5 +72,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 12/12/2025 18:52:48 UTC
+ Last Updated on 13/12/2025 18:45:59 UTC
 <!--END_SECTION:waka-->
