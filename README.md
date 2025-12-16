@@ -8,32 +8,32 @@ Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 
 > 📦 350.1 kB Used in GitHub's Storage 
  > 
-> 🏆 223 Contributions in the Year 2025
+> 🏆 226 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                62 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-🌆 Daytime                169 commits         ██████████░░░░░░░░░░░░░░░   39.12 % 
-🌃 Evening                93 commits          █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-🌙 Night                  108 commits         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+🌞 Morning                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+🌆 Daytime                177 commits         ██████████░░░░░░░░░░░░░░░   39.86 % 
+🌃 Evening                97 commits          █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+🌙 Night                  108 commits         ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   81 commits          █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Tuesday                  93 commits          █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-Wednesday                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Thursday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Friday                   61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Saturday                 40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Sunday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Monday                   81 commits          █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Tuesday                  105 commits         ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+Wednesday                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Thursday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Friday                   61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Saturday                 40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Sunday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
 ```
 
 
@@ -58,11 +58,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-TeX                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+TeX                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
@@ -72,5 +72,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 15/12/2025 18:54:11 UTC
+ Last Updated on 16/12/2025 18:59:25 UTC
 <!--END_SECTION:waka-->
