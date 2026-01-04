@@ -1,6 +1,8 @@
 Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2053%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -14,6 +16,45 @@ Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                67 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+🌆 Daytime                180 commits         ██████████░░░░░░░░░░░░░░░   39.47 % 
+🌃 Evening                100 commits         █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+🌙 Night                  109 commits         ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Tuesday                  104 commits         ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+Wednesday                64 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Thursday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Friday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Saturday                 42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Sunday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -31,5 +72,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:49:09 UTC
+ Last Updated on 04/01/2026 18:49:40 UTC
 <!--END_SECTION:waka-->
