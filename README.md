@@ -1,7 +1,5 @@
 Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2053%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -16,45 +14,6 @@ Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-🌆 Daytime                192 commits         █████████░░░░░░░░░░░░░░░░   36.92 % 
-🌃 Evening                135 commits         ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
-🌙 Night                  126 commits         ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   106 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Tuesday                  118 commits         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Thursday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Friday                   64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Saturday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Sunday                   75 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -72,5 +31,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2026 18:55:00 UTC
+ Last Updated on 01/02/2026 18:59:49 UTC
 <!--END_SECTION:waka-->
