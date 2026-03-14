@@ -6,9 +6,9 @@ Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 
 **🐱 My GitHub Data** 
 
-> 📦 435.6 kB Used in GitHub's Storage 
+> 📦 437.4 kB Used in GitHub's Storage 
  > 
-> 🏆 152 Contributions in the Year 2026
+> 🏆 158 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -19,21 +19,21 @@ Hi! Im a under-grat @ dept.EE, Tsinghua Univ.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-🌆 Daytime                220 commits         █████████░░░░░░░░░░░░░░░░   36.36 % 
-🌃 Evening                165 commits         ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-🌙 Night                  148 commits         ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+🌞 Morning                72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+🌆 Daytime                220 commits         █████████░░░░░░░░░░░░░░░░   36.01 % 
+🌃 Evening                171 commits         ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+🌙 Night                  148 commits         ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   114 commits         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Tuesday                  132 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-Wednesday                72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Thursday                 57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Friday                   84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Saturday                 59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Sunday                   87 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Monday                   114 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Tuesday                  132 commits         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+Wednesday                72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Thursday                 57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Friday                   84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Saturday                 65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Sunday                   87 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 ```
 
 
@@ -72,5 +72,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CBDT-JWT/CBDT-JWT/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2026 19:06:36 UTC
+ Last Updated on 14/03/2026 19:02:39 UTC
 <!--END_SECTION:waka-->
