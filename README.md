@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.weitao-jiang.cn">Weitao JIANG</a> (CBDT)</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.weitao-jiang.cn/aboutme.html">Weitao JIANG</a> (CBDT)</h1>
 
 
 <h3 align="left">About Me</h3>
